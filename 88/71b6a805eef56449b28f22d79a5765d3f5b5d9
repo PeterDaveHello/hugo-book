@@ -1,0 +1,19 @@
+i18n/zh-TW.yaml
+  s_3e25a78cb240a9::t_e3d545cdc0bc50 2,5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "8871b6a805eef56449b28f22d79a5765d3f5b5d9",
+  "prompts": {},
+  "sessions": {
+    "s_3e25a78cb240a9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa166-6009-72e1-953a-50b8a1fd9e8b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
