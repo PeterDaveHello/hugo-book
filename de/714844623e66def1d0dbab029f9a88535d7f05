@@ -1,0 +1,20 @@
+i18n/en.yaml
+  s_3e25a78cb240a9::t_6943b8e49092f3 10-15,18,21-33
+  s_3e25a78cb240a9::t_47aa0f511908c9 16-17,19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de714844623e66def1d0dbab029f9a88535d7f05",
+  "prompts": {},
+  "sessions": {
+    "s_3e25a78cb240a9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa166-6009-72e1-953a-50b8a1fd9e8b",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
